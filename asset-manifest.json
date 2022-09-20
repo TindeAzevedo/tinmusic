@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tinmusic/static/css/main.100fc768.css",
+    "main.js": "/tinmusic/static/js/main.026e2ceb.js",
+    "static/js/787.a22a42c3.chunk.js": "/tinmusic/static/js/787.a22a42c3.chunk.js",
+    "index.html": "/tinmusic/index.html",
+    "main.100fc768.css.map": "/tinmusic/static/css/main.100fc768.css.map",
+    "main.026e2ceb.js.map": "/tinmusic/static/js/main.026e2ceb.js.map",
+    "787.a22a42c3.chunk.js.map": "/tinmusic/static/js/787.a22a42c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100fc768.css",
+    "static/js/main.026e2ceb.js"
+  ]
+}
