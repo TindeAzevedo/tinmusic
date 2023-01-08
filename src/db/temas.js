@@ -4,7 +4,7 @@ export const temas = [
         id: 1,
         enlace: "Tth3eAc4wTE",
         titulo: "DEBAJO DE TU PIEL",
-        imagen: "image/video1.jpg",
+        imagen: "public/image/video1.jpg",
         genero: "poprock",
          letra: `"DEBAJO DE TU PIEL"
 
